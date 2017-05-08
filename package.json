@@ -1,0 +1,28 @@
+{
+  "name": "botframework-cards-examples",
+  "version": "1.0.0",
+  "description": "Examples how to use cards in Bot Framework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwhitmont/botframework-cards-examples.git"
+  },
+  "keywords": [
+    "botbuilder",
+    "botframework"
+  ],
+  "author": "Nils Whitmont",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nwhitmont/botframework-cards-examples/issues"
+  },
+  "homepage": "https://github.com/nwhitmont/botframework-cards-examples#readme",
+  "dependencies": {
+    "botbuilder": "^3.8.0",
+    "restify": "^4.3.0"
+  }
+}
